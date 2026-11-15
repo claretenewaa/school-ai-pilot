@@ -1,0 +1,182 @@
+date,student_id,incident,action_taken
+21/10/2025,BFA-0001,Lateness to class,Detention
+30/06/2026,BFA-0001,Using phone in class,Parent called
+15/05/2026,BFA-0002,Fighting,Detention
+02/07/2026,BFA-0002,Leaving school without permission,Parent called
+30/06/2026,BFA-0002,Fighting,Letter to parent
+30/04/2026,BFA-0008,Fighting,Parent called
+20/05/2026,BFA-0014,Fighting,Letter to parent
+31/03/2026,BFA-0019,Not in proper uniform,Detention
+20/11/2025,BFA-0021,Leaving school without permission,Parent called
+22/05/2026,BFA-0022,Disrespect to teacher,Letter to parent
+14/07/2026,BFA-0024,Copying in a test,Letter to parent
+21/10/2025,BFA-0027,Leaving school without permission,Letter to parent
+29/06/2026,BFA-0027,Fighting,Letter to parent
+19/05/2026,BFA-0028,Copying in a test,Warning
+14/11/2025,BFA-0031,Using phone in class,Detention
+06/11/2025,BFA-0031,Disrespect to teacher,Letter to parent
+15/01/2026,BFA-0031,Disrespect to teacher,Detention
+29/06/2026,BFA-0031,Fighting,Parent called
+30/06/2026,BFA-0031,Not in proper uniform,Warning
+29/01/2026,BFA-0032,Fighting,Letter to parent
+03/02/2026,BFA-0035,Fighting,Detention
+10/09/2025,BFA-0042,Disrespect to teacher,Detention
+15/12/2025,BFA-0042,Disrespect to teacher,Parent called
+21/07/2026,BFA-0042,Leaving school without permission,Letter to parent
+02/10/2025,BFA-0045,Not in proper uniform,Letter to parent
+13/11/2025,BFA-0048,Leaving school without permission,Warning
+13/07/2026,BFA-0050,Not in proper uniform,Parent called
+15/05/2026,BFA-0050,Using phone in class,Letter to parent
+19/01/2026,BFA-0051,Using phone in class,Letter to parent
+15/06/2026,BFA-0056,Not in proper uniform,Warning
+12/03/2026,BFA-0057,Bullying,Warning
+05/11/2025,BFA-0064,Bullying,Parent called
+26/05/2026,BFA-0064,Using phone in class,Detention
+25/11/2025,BFA-0066,Copying in a test,Detention
+29/01/2026,BFA-0068,Lateness to class,Parent called
+10/11/2025,BFA-0071,Lateness to class,Warning
+27/11/2025,BFA-0072,Disrespect to teacher,Warning
+28/01/2026,BFA-0072,Bullying,Detention
+22/07/2026,BFA-0074,Lateness to class,Warning
+07/05/2026,BFA-0074,Bullying,Letter to parent
+25/05/2026,BFA-0075,Leaving school without permission,Detention
+28/01/2026,BFA-0077,Leaving school without permission,Parent called
+10/09/2025,BFA-0078,Copying in a test,Detention
+03/02/2026,BFA-0078,Bullying,Letter to parent
+11/03/2026,BFA-0080,Using phone in class,Parent called
+09/06/2026,BFA-0081,Bullying,Parent called
+03/10/2025,BFA-0082,Copying in a test,Warning
+28/11/2025,BFA-0083,Copying in a test,Detention
+06/02/2026,BFA-0085,Bullying,Warning
+18/03/2026,BFA-0085,Disrespect to teacher,Parent called
+29/04/2026,BFA-0087,Using phone in class,Letter to parent
+20/01/2026,BFA-0089,Using phone in class,Letter to parent
+27/01/2026,BFA-0091,Not in proper uniform,Warning
+16/02/2026,BFA-0094,Not in proper uniform,Detention
+13/07/2026,BFA-0094,Copying in a test,Parent called
+05/06/2026,BFA-0095,Fighting,Detention
+17/06/2026,BFA-0095,Leaving school without permission,Parent called
+22/05/2026,BFA-0096,Using phone in class,Warning
+02/12/2025,BFA-0106,Disrespect to teacher,Letter to parent
+28/01/2026,BFA-0106,Copying in a test,Letter to parent
+16/02/2026,BFA-0108,Leaving school without permission,Letter to parent
+05/06/2026,BFA-0109,Fighting,Letter to parent
+26/01/2026,BFA-0110,Using phone in class,Warning
+03/02/2026,BFA-0110,Fighting,Warning
+15/06/2026,BFA-0110,Using phone in class,Letter to parent
+18/12/2025,BFA-0114,Leaving school without permission,Warning
+18/11/2025,BFA-0114,Lateness to class,Detention
+21/07/2026,BFA-0114,Copying in a test,Letter to parent
+19/09/2025,BFA-0116,Copying in a test,Warning
+16/12/2025,BFA-0118,Copying in a test,Warning
+21/10/2025,BFA-0118,Leaving school without permission,Parent called
+10/06/2026,BFA-0118,Leaving school without permission,Letter to parent
+20/07/2026,BFA-0118,Bullying,Detention
+23/01/2026,BFA-0120,Lateness to class,Letter to parent
+02/07/2026,BFA-0120,Copying in a test,Warning
+30/04/2026,BFA-0121,Fighting,Parent called
+25/05/2026,BFA-0123,Using phone in class,Letter to parent
+22/06/2026,BFA-0123,Copying in a test,Warning
+29/04/2026,BFA-0124,Bullying,Parent called
+17/11/2025,BFA-0125,Not in proper uniform,Detention
+29/04/2026,BFA-0126,Copying in a test,Letter to parent
+12/12/2025,BFA-0127,Bullying,Detention
+12/05/2026,BFA-0127,Leaving school without permission,Letter to parent
+20/05/2026,BFA-0130,Leaving school without permission,Parent called
+09/10/2025,BFA-0133,Not in proper uniform,Warning
+09/12/2025,BFA-0134,Disrespect to teacher,Letter to parent
+16/03/2026,BFA-0134,Fighting,Detention
+16/07/2026,BFA-0134,Using phone in class,Parent called
+19/06/2026,BFA-0134,Lateness to class,Warning
+25/11/2025,BFA-0136,Disrespect to teacher,Detention
+15/10/2025,BFA-0136,Lateness to class,Detention
+31/03/2026,BFA-0136,Leaving school without permission,Letter to parent
+09/06/2026,BFA-0136,Fighting,Parent called
+10/06/2026,BFA-0136,Leaving school without permission,Warning
+02/07/2026,BFA-0136,Fighting,Parent called
+09/09/2025,BFA-0138,Not in proper uniform,Parent called
+02/02/2026,BFA-0138,Fighting,Parent called
+09/10/2025,BFA-0141,Lateness to class,Letter to parent
+02/04/2026,BFA-0141,Bullying,Warning
+22/05/2026,BFA-0143,Using phone in class,Warning
+12/12/2025,BFA-0146,Using phone in class,Warning
+02/07/2026,BFA-0147,Copying in a test,Warning
+21/01/2026,BFA-0148,Using phone in class,Detention
+24/11/2025,BFA-0150,Using phone in class,Letter to parent
+26/09/2025,BFA-0150,Fighting,Letter to parent
+05/02/2026,BFA-0151,Lateness to class,Letter to parent
+06/02/2026,BFA-0151,Copying in a test,Warning
+26/01/2026,BFA-0151,Using phone in class,Parent called
+15/07/2026,BFA-0151,Bullying,Warning
+26/06/2026,BFA-0151,Disrespect to teacher,Letter to parent
+15/05/2026,BFA-0153,Leaving school without permission,Parent called
+14/10/2025,BFA-0154,Fighting,Parent called
+03/07/2026,BFA-0154,Lateness to class,Letter to parent
+16/10/2025,BFA-0156,Disrespect to teacher,Detention
+27/10/2025,BFA-0156,Disrespect to teacher,Letter to parent
+20/10/2025,BFA-0156,Using phone in class,Letter to parent
+23/01/2026,BFA-0156,Disrespect to teacher,Parent called
+13/02/2026,BFA-0156,Using phone in class,Detention
+03/03/2026,BFA-0156,Not in proper uniform,Parent called
+18/11/2025,BFA-0158,Bullying,Parent called
+15/01/2026,BFA-0158,Disrespect to teacher,Letter to parent
+08/10/2025,BFA-0160,Not in proper uniform,Warning
+09/07/2026,BFA-0162,Copying in a test,Parent called
+16/12/2025,BFA-0164,Lateness to class,Detention
+10/11/2025,BFA-0164,Leaving school without permission,Warning
+12/11/2025,BFA-0165,Copying in a test,Letter to parent
+25/11/2025,BFA-0165,Lateness to class,Letter to parent
+20/02/2026,BFA-0165,Bullying,Detention
+20/02/2026,BFA-0165,Fighting,Detention
+22/07/2026,BFA-0165,Using phone in class,Warning
+30/06/2026,BFA-0165,Bullying,Letter to parent
+22/05/2026,BFA-0166,Not in proper uniform,Parent called
+17/11/2025,BFA-0168,Disrespect to teacher,Letter to parent
+18/11/2025,BFA-0168,Using phone in class,Warning
+27/03/2026,BFA-0168,Bullying,Parent called
+19/05/2026,BFA-0168,Bullying,Parent called
+07/05/2026,BFA-0171,Leaving school without permission,Letter to parent
+01/10/2025,BFA-0172,Fighting,Parent called
+17/03/2026,BFA-0172,Lateness to class,Warning
+20/11/2025,BFA-0173,Disrespect to teacher,Detention
+19/02/2026,BFA-0173,Bullying,Letter to parent
+14/05/2026,BFA-0173,Using phone in class,Warning
+02/03/2026,BFA-0174,Leaving school without permission,Letter to parent
+19/01/2026,BFA-0174,Lateness to class,Letter to parent
+29/06/2026,BFA-0174,Fighting,Detention
+21/11/2025,BFA-0175,Not in proper uniform,Parent called
+28/05/2026,BFA-0175,Lateness to class,Warning
+24/02/2026,BFA-0178,Not in proper uniform,Parent called
+02/12/2025,BFA-0179,Bullying,Parent called
+01/10/2025,BFA-0180,Not in proper uniform,Warning
+11/02/2026,BFA-0180,Leaving school without permission,Detention
+10/03/2026,BFA-0181,Fighting,Parent called
+08/10/2025,BFA-0183,Lateness to class,Parent called
+20/02/2026,BFA-0185,Leaving school without permission,Detention
+29/05/2026,BFA-0188,Disrespect to teacher,Parent called
+13/03/2026,BFA-0190,Disrespect to teacher,Warning
+12/11/2025,BFA-0193,Copying in a test,Detention
+23/09/2025,BFA-0193,Using phone in class,Detention
+04/12/2025,BFA-0193,Fighting,Parent called
+24/02/2026,BFA-0193,Not in proper uniform,Detention
+30/04/2026,BFA-0193,Lateness to class,Detention
+19/05/2026,BFA-0193,Lateness to class,Warning
+18/12/2025,BFA-0194,Leaving school without permission,Detention
+02/02/2026,BFA-0194,Not in proper uniform,Warning
+16/02/2026,BFA-0197,Disrespect to teacher,Letter to parent
+13/01/2026,BFA-0199,Using phone in class,Warning
+16/09/2025,BFA-0201,Lateness to class,Warning
+19/01/2026,BFA-0201,Bullying,Detention
+08/10/2025,BFA-0204,Not in proper uniform,Letter to parent
+08/05/2026,BFA-0204,Disrespect to teacher,Parent called
+14/05/2026,BFA-0204,Copying in a test,Warning
+25/06/2026,BFA-0205,Bullying,Parent called
+29/10/2025,BFA-0206,Using phone in class,Warning
+03/02/2026,BFA-0207,Lateness to class,Detention
+10/11/2025,BFA-0208,Bullying,Parent called
+29/04/2026,BFA-0208,Using phone in class,Parent called
+21/10/2025,BFA-0211,Leaving school without permission,Warning
+11/11/2025,BFA-0211,Disrespect to teacher,Parent called
+07/11/2025,BFA-0211,Using phone in class,Parent called
+16/01/2026,BFA-0211,Using phone in class,Warning
+11/03/2026,BFA-0213,Not in proper uniform,Warning

@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+school_data/
+# private planning documents and photos: not part of the app
+*.docx
+!school_docs/*.docx
+*.jpeg
+*.jpg
+~$*

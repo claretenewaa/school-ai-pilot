@@ -1,0 +1,87 @@
+{
+  "early_warning": {
+    "threshold": 0.44,
+    "held_out_students_20pct": {
+      "roc_auc": 0.935,
+      "pr_auc": 0.891,
+      "precision": 0.793,
+      "recall": 0.813,
+      "f1": 0.803,
+      "flagged_share": 0.354,
+      "base_rate": 0.346
+    },
+    "logistic_explainer_held_out": {
+      "roc_auc": 0.919,
+      "pr_auc": 0.872,
+      "precision": 0.774,
+      "recall": 0.799,
+      "f1": 0.786,
+      "flagged_share": 0.357,
+      "base_rate": 0.346
+    },
+    "held_out_50_students": {
+      "roc_auc": 0.951,
+      "pr_auc": 0.92,
+      "precision": 0.822,
+      "recall": 0.859,
+      "f1": 0.84,
+      "flagged_share": 0.38,
+      "base_rate": 0.364,
+      "records": 1111
+    },
+    "train_terms_1_2_test_term_3": {
+      "roc_auc": 0.927,
+      "pr_auc": 0.885,
+      "precision": 0.808,
+      "recall": 0.77,
+      "f1": 0.789,
+      "flagged_share": 0.322,
+      "base_rate": 0.338
+    },
+    "fairness_held_out": {
+      "gender=Female": {
+        "recall": 0.819,
+        "flagged_share": 0.372,
+        "base_rate": 0.359
+      },
+      "gender=Male": {
+        "recall": 0.807,
+        "flagged_share": 0.336,
+        "base_rate": 0.332
+      },
+      "school_type=Private": {
+        "recall": 0.662,
+        "flagged_share": 0.172,
+        "base_rate": 0.185
+      },
+      "school_type=Public": {
+        "recall": 0.847,
+        "flagged_share": 0.451,
+        "base_rate": 0.431
+      }
+    },
+    "strongest_signals": {
+      "ca_score_30": -2.024,
+      "homework_avg": -0.45,
+      "lesson_attendance_rate": -0.335,
+      "assignment_submission_rate": 0.304,
+      "time_on_task_pct": -0.219,
+      "common_error_type_Careless slip": -0.218,
+      "quiz_avg": -0.216,
+      "prev_exam_score": 0.206,
+      "subject_Ghanaian Language": -0.199,
+      "days_absent_before_tests": 0.187,
+      "subject_Our World Our People": -0.185,
+      "common_error_type_Incomplete answer": -0.178
+    }
+  },
+  "knowledge_bot_retrieval": {
+    "answerable_questions": 46,
+    "right_document_top1": 0.717,
+    "right_document_top3": 1.0,
+    "wrongly_refused_offline": 0,
+    "unanswerable_questions": 4,
+    "correctly_refused_offline": 1,
+    "note": "Offline refusal uses a score threshold only. With Claude, refusal is decided by the model from the excerpts."
+  }
+}

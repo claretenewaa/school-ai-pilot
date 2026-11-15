@@ -1,0 +1,51 @@
+question,expected_source,answerable
+What time does school start?,handbook.md,yes
+What time should I pick up my child?,handbook.md,yes
+How much is the late pick-up fee?,handbook.md,yes
+How much are school fees for Class 2?,fees_2026_27.md,yes
+How much is tuition for JHS 3?,fees_2026_27.md,yes
+Can I pay fees in instalments?,fees_2026_27.md,yes
+Can I pay school fees with mobile money?,fees_2026_27.md,yes
+Is there a discount for siblings?,fees_2026_27.md,yes
+How much is the bus fee from Adenta?,fees_2026_27.md,yes
+How much is feeding per term?,fees_2026_27.md,yes
+When does school reopen in January?,calendar_2026_27.md,yes
+When is the mid-term break in the first term?,calendar_2026_27.md,yes
+When do the end of term exams start in December?,calendar_2026_27.md,yes
+When is the next PTA meeting?,calendar_2026_27.md,yes
+When will JHS 3 write the mock exams?,calendar_2026_27.md,yes
+Is there school on Farmers' Day?,calendar_2026_27.md,yes
+When does the third term end?,calendar_2026_27.md,yes
+My child has malaria. What should I do?,faq_office.md,yes
+Do I need a hospital note when my child is absent?,handbook.md,yes
+Can my child write an exam she missed because she was sick?,faq_office.md,yes
+What happens if my child is late to school?,handbook.md,yes
+How is the term result calculated?,handbook.md,yes
+What does AP mean on my child's report card?,handbook.md,yes
+What grade is 65 marks in JHS?,handbook.md,yes
+When do we get report cards?,handbook.md,yes
+Will my child be sent home for fees during exams?,fees_2026_27.md,yes
+Can I get my child's report card if fees are not complete?,fees_2026_27.md,yes
+What does the school uniform look like?,handbook.md,yes
+What do children wear on Wednesday?,handbook.md,yes
+Can my daughter wear braids with extensions?,handbook.md,yes
+Can my son bring his phone to school?,handbook.md,yes
+Does the school cane children?,handbook.md,yes
+How much homework should my Class 5 child get?,handbook.md,yes
+Are there Saturday classes for JHS 3?,faq_office.md,yes
+When should I submit BECE registration details?,calendar_2026_27.md,yes
+What documents do I need for admission?,handbook.md,yes
+How much is the admission fee?,fees_2026_27.md,yes
+Which areas does the school bus cover?,handbook.md,yes
+What food is served at lunch?,handbook.md,yes
+Who do I report bullying to?,faq_office.md,yes
+Does the school give scholarships?,faq_office.md,yes
+How can I help my child with maths at home?,faq_office.md,yes
+How do I contact the class teacher?,handbook.md,yes
+Is French taught?,handbook.md,yes
+Will my child repeat the class if he fails?,handbook.md,yes
+Does the school use AI with my child's data?,handbook.md,yes
+What is the name of the headteacher's wife?,,no
+Will the school close for the December elections?,,no
+Does the school offer swimming lessons?,,no
+What is the salary of a teacher at the school?,,no

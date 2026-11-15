@@ -1,0 +1,768 @@
+student_id,term,intervention_date,intervention_type,reason_flagged,attendance_rate_20d_before,attendance_rate_20d_after
+SCH01-0001,2,2026-02-13,Home visit,Low attendance in previous term,0.9,0.8
+SCH01-0003,2,2026-01-29,Counselling,Low attendance in previous term,0.8,1.0
+SCH01-0005,2,2026-02-11,Counselling,Low attendance in previous term,0.95,1.0
+SCH01-0006,2,2026-01-29,Remedial classes,Low attendance in previous term,1.0,0.95
+SCH01-0007,2,2026-02-09,Home visit,Low attendance in previous term,0.9,0.95
+SCH01-0009,2,2026-02-11,Counselling,Low attendance in previous term,0.9,1.0
+SCH01-0013,2,2026-01-20,Home visit,Low attendance in previous term,1.0,0.95
+SCH01-0015,2,2026-01-23,Remedial classes,Low attendance in previous term,0.45,0.85
+SCH01-0017,2,2026-01-23,Counselling,Low attendance in previous term,1.0,1.0
+SCH01-0019,3,2026-06-01,Remedial classes,Low attendance in previous term,0.7,0.9
+SCH01-0020,2,2026-02-05,Parent-teacher meeting,Low attendance in previous term,0.95,0.55
+SCH01-0023,3,2026-05-11,Parent-teacher meeting,Low attendance in previous term,1.0,0.95
+SCH01-0024,3,2026-05-22,Attendance contract,Low attendance in previous term,0.6,0.55
+SCH01-0026,2,2026-02-09,Parent-teacher meeting,Low attendance in previous term,0.85,0.95
+SCH01-0032,2,2026-02-12,Counselling,Low attendance in previous term,0.9,1.0
+SCH01-0034,3,2026-05-19,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH01-0036,2,2026-02-11,Remedial classes,Low attendance in previous term,1.0,0.95
+SCH01-0037,3,2026-06-01,Remedial classes,Low attendance in previous term,0.75,0.8
+SCH01-0040,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,0.6,0.95
+SCH01-0046,2,2026-01-23,Attendance contract,Low attendance in previous term,1.0,0.9
+SCH01-0051,2,2026-01-26,Peer tutoring,Low attendance in previous term,1.0,1.0
+SCH01-0053,2,2026-02-03,Parent-teacher meeting,Low attendance in previous term,1.0,0.8
+SCH01-0058,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,0.95,0.9
+SCH01-0059,3,2026-05-11,Home visit,Low attendance in previous term,0.9,0.95
+SCH01-0062,2,2026-01-20,Counselling,Low attendance in previous term,0.95,1.0
+SCH01-0065,3,2026-05-15,Parent-teacher meeting,Low attendance in previous term,0.95,0.9
+SCH01-0074,2,2026-02-03,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH01-0076,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,0.75,0.95
+SCH01-0077,2,2026-02-16,Attendance contract,Low attendance in previous term,0.9,0.95
+SCH01-0078,2,2026-01-23,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH01-0079,2,2026-01-30,Peer tutoring,Low attendance in previous term,0.9,1.0
+SCH01-0082,2,2026-02-04,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH01-0084,2,2026-01-30,Peer tutoring,Low attendance in previous term,0.95,1.0
+SCH01-0085,2,2026-01-30,Home visit,Low attendance in previous term,1.0,1.0
+SCH01-0086,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH01-0087,2,2026-01-27,Remedial classes,Low attendance in previous term,0.75,1.0
+SCH01-0089,3,2026-05-15,Counselling,Low attendance in previous term,0.8,1.0
+SCH01-0092,2,2026-01-30,Home visit,Low attendance in previous term,1.0,1.0
+SCH01-0093,2,2026-02-03,Remedial classes,Low attendance in previous term,0.9,0.95
+SCH01-0097,2,2026-01-20,Counselling,Low attendance in previous term,0.85,0.85
+SCH01-0098,2,2026-01-26,Home visit,Low attendance in previous term,0.95,1.0
+SCH01-0099,2,2026-01-27,Attendance contract,Low attendance in previous term,0.7,0.9
+SCH01-0102,2,2026-01-21,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH01-0104,2,2026-01-29,Remedial classes,Low attendance in previous term,0.95,0.9
+SCH01-0105,2,2026-02-03,Peer tutoring,Low attendance in previous term,1.0,1.0
+SCH01-0109,3,2026-05-26,Parent-teacher meeting,Low attendance in previous term,0.8,0.95
+SCH01-0111,2,2026-02-02,Peer tutoring,Low attendance in previous term,1.0,1.0
+SCH01-0112,3,2026-05-11,Attendance contract,Low attendance in previous term,0.9,0.8
+SCH01-0113,2,2026-02-12,Home visit,Low attendance in previous term,0.75,0.95
+SCH01-0114,2,2026-02-11,Attendance contract,Low attendance in previous term,0.9,0.9
+SCH01-0120,2,2026-02-10,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH01-0123,2,2026-02-13,Parent-teacher meeting,Low attendance in previous term,0.7,0.9
+SCH01-0124,3,2026-06-01,Home visit,Low attendance in previous term,0.8,0.95
+SCH01-0128,3,2026-05-13,Remedial classes,Low attendance in previous term,0.85,1.0
+SCH01-0129,2,2026-01-27,Parent-teacher meeting,Low attendance in previous term,0.85,0.9
+SCH01-0130,3,2026-05-11,Parent-teacher meeting,Low attendance in previous term,0.9,0.95
+SCH01-0132,2,2026-01-27,Attendance contract,Low attendance in previous term,0.85,0.8
+SCH01-0136,3,2026-05-08,Remedial classes,Low attendance in previous term,0.85,1.0
+SCH01-0137,2,2026-02-06,Home visit,Low attendance in previous term,0.6,0.9
+SCH01-0144,3,2026-05-21,Peer tutoring,Low attendance in previous term,0.85,0.9
+SCH01-0145,2,2026-02-09,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH01-0147,2,2026-01-27,Counselling,Low attendance in previous term,0.8,1.0
+SCH01-0152,3,2026-05-11,Home visit,Low attendance in previous term,0.8,1.0
+SCH01-0154,3,2026-05-14,Attendance contract,Low attendance in previous term,0.9,0.9
+SCH01-0158,2,2026-01-22,Remedial classes,Low attendance in previous term,0.95,0.95
+SCH01-0159,2,2026-02-02,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH01-0163,2,2026-02-16,Peer tutoring,Low attendance in previous term,0.95,1.0
+SCH01-0164,2,2026-01-26,Parent-teacher meeting,Low attendance in previous term,1.0,0.9
+SCH01-0169,2,2026-02-04,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH01-0172,2,2026-02-10,Counselling,Low attendance in previous term,0.95,1.0
+SCH01-0173,2,2026-02-10,Remedial classes,Low attendance in previous term,0.8,0.95
+SCH01-0175,2,2026-02-13,Counselling,Low attendance in previous term,0.7,0.85
+SCH01-0176,2,2026-02-11,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH01-0177,3,2026-06-02,Counselling,Low attendance in previous term,0.85,0.9
+SCH01-0180,2,2026-02-02,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH01-0181,2,2026-02-09,Attendance contract,Low attendance in previous term,0.9,0.9
+SCH01-0183,2,2026-02-10,Parent-teacher meeting,Low attendance in previous term,0.8,0.75
+SCH01-0184,3,2026-05-26,Remedial classes,Low attendance in previous term,0.85,0.9
+SCH01-0185,2,2026-01-29,Peer tutoring,Low attendance in previous term,0.95,1.0
+SCH01-0188,2,2026-01-26,Attendance contract,Low attendance in previous term,0.95,1.0
+SCH01-0191,2,2026-01-28,Home visit,Low attendance in previous term,0.95,0.9
+SCH01-0197,2,2026-02-09,Parent-teacher meeting,Low attendance in previous term,1.0,0.95
+SCH01-0204,2,2026-02-06,Counselling,Low attendance in previous term,0.9,1.0
+SCH01-0205,2,2026-02-04,Counselling,Low attendance in previous term,0.95,0.95
+SCH01-0207,2,2026-01-30,Home visit,Low attendance in previous term,0.9,0.9
+SCH01-0208,2,2026-02-13,Attendance contract,Low attendance in previous term,1.0,1.0
+SCH01-0211,2,2026-01-26,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH01-0218,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH01-0219,2,2026-01-28,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH01-0220,2,2026-01-23,Peer tutoring,Low attendance in previous term,0.85,0.8
+SCH01-0226,2,2026-02-16,Parent-teacher meeting,Low attendance in previous term,1.0,0.8
+SCH01-0228,3,2026-05-14,Attendance contract,Low attendance in previous term,0.55,0.65
+SCH01-0233,3,2026-05-19,Parent-teacher meeting,Low attendance in previous term,0.7,1.0
+SCH01-0240,2,2026-02-11,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH01-0241,2,2026-02-16,Peer tutoring,Low attendance in previous term,0.95,1.0
+SCH01-0242,2,2026-01-30,Home visit,Low attendance in previous term,0.95,1.0
+SCH01-0244,3,2026-06-01,Counselling,Low attendance in previous term,0.8,0.85
+SCH01-0248,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,0.8,0.85
+SCH01-0249,3,2026-05-07,Parent-teacher meeting,Low attendance in previous term,0.8,0.85
+SCH01-0252,3,2026-05-28,Parent-teacher meeting,Low attendance in previous term,0.8,1.0
+SCH01-0253,2,2026-02-10,Parent-teacher meeting,Low attendance in previous term,0.85,0.95
+SCH01-0254,2,2026-01-22,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH01-0255,2,2026-01-28,Parent-teacher meeting,Low attendance in previous term,0.85,0.85
+SCH01-0258,3,2026-06-01,Attendance contract,Low attendance in previous term,1.0,0.95
+SCH01-0259,2,2026-01-23,Attendance contract,Low attendance in previous term,0.8,0.95
+SCH01-0265,3,2026-05-06,Remedial classes,Low attendance in previous term,0.75,0.85
+SCH01-0267,2,2026-01-27,Home visit,Low attendance in previous term,0.75,0.5
+SCH01-0268,3,2026-05-07,Attendance contract,Low attendance in previous term,0.6,0.5
+SCH01-0269,2,2026-01-21,Remedial classes,Low attendance in previous term,0.8,1.0
+SCH01-0270,3,2026-06-02,Remedial classes,Low attendance in previous term,0.95,0.75
+SCH01-0274,2,2026-01-26,Counselling,Low attendance in previous term,0.95,1.0
+SCH01-0276,3,2026-06-01,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH01-0279,2,2026-02-12,Counselling,Low attendance in previous term,0.85,0.8
+SCH01-0280,3,2026-05-13,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH01-0282,2,2026-02-09,Parent-teacher meeting,Low attendance in previous term,1.0,0.8
+SCH01-0283,2,2026-01-22,Remedial classes,Low attendance in previous term,0.9,0.75
+SCH01-0284,3,2026-05-20,Remedial classes,Low attendance in previous term,1.0,0.9
+SCH01-0293,2,2026-02-09,Parent-teacher meeting,Low attendance in previous term,1.0,0.9
+SCH01-0297,2,2026-01-30,Parent-teacher meeting,Low attendance in previous term,0.75,0.95
+SCH01-0301,2,2026-01-28,Parent-teacher meeting,Low attendance in previous term,0.8,0.95
+SCH01-0307,2,2026-02-03,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH01-0315,2,2026-02-05,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH01-0316,2,2026-02-02,Attendance contract,Low attendance in previous term,0.95,1.0
+SCH01-0318,2,2026-02-09,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH01-0319,3,2026-05-25,Home visit,Low attendance in previous term,0.9,0.75
+SCH01-0320,3,2026-06-01,Parent-teacher meeting,Low attendance in previous term,0.7,1.0
+SCH01-0322,2,2026-01-29,Home visit,Low attendance in previous term,0.8,0.85
+SCH01-0328,3,2026-05-08,Parent-teacher meeting,Low attendance in previous term,1.0,0.95
+SCH01-0331,2,2026-01-30,Home visit,Low attendance in previous term,0.6,0.9
+SCH01-0332,2,2026-02-10,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH01-0333,2,2026-01-27,Home visit,Low attendance in previous term,0.95,1.0
+SCH01-0335,2,2026-01-22,Attendance contract,Low attendance in previous term,0.8,0.7
+SCH01-0336,2,2026-01-28,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH01-0339,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH02-0001,2,2026-02-12,Parent-teacher meeting,Low attendance in previous term,1.0,0.75
+SCH02-0006,3,2026-05-22,Parent-teacher meeting,Low attendance in previous term,0.8,0.9
+SCH02-0007,2,2026-02-16,Attendance contract,Low attendance in previous term,1.0,0.9
+SCH02-0008,2,2026-01-20,Remedial classes,Low attendance in previous term,0.9,0.9
+SCH02-0011,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH02-0013,3,2026-05-28,Home visit,Low attendance in previous term,0.9,1.0
+SCH02-0016,2,2026-02-11,Counselling,Low attendance in previous term,0.95,0.95
+SCH02-0017,3,2026-05-25,Attendance contract,Low attendance in previous term,1.0,0.9
+SCH02-0020,2,2026-02-09,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH02-0021,2,2026-02-02,Counselling,Low attendance in previous term,0.85,1.0
+SCH02-0022,2,2026-01-20,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH02-0026,3,2026-05-26,Remedial classes,Low attendance in previous term,0.85,0.65
+SCH02-0030,3,2026-05-26,Peer tutoring,Low attendance in previous term,1.0,0.9
+SCH02-0031,2,2026-02-11,Peer tutoring,Low attendance in previous term,1.0,1.0
+SCH02-0034,3,2026-05-12,Parent-teacher meeting,Low attendance in previous term,0.75,0.55
+SCH02-0039,3,2026-05-18,Parent-teacher meeting,Low attendance in previous term,0.55,0.9
+SCH02-0040,3,2026-05-13,Counselling,Low attendance in previous term,0.75,0.9
+SCH02-0042,2,2026-01-26,Remedial classes,Low attendance in previous term,0.9,0.9
+SCH02-0045,2,2026-02-11,Peer tutoring,Low attendance in previous term,0.7,0.95
+SCH02-0046,3,2026-05-13,Parent-teacher meeting,Low attendance in previous term,0.6,0.65
+SCH02-0049,3,2026-05-11,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH02-0050,3,2026-05-21,Remedial classes,Low attendance in previous term,1.0,0.9
+SCH02-0051,3,2026-05-08,Attendance contract,Low attendance in previous term,0.65,0.9
+SCH02-0056,2,2026-01-22,Peer tutoring,Low attendance in previous term,0.85,0.95
+SCH02-0057,3,2026-05-19,Attendance contract,Low attendance in previous term,1.0,0.9
+SCH02-0058,2,2026-01-21,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH02-0059,2,2026-01-20,Remedial classes,Low attendance in previous term,0.85,0.95
+SCH02-0060,2,2026-01-22,Parent-teacher meeting,Low attendance in previous term,0.55,0.7
+SCH02-0063,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,1.0,0.95
+SCH02-0064,2,2026-01-22,Remedial classes,Low attendance in previous term,0.8,0.95
+SCH02-0065,2,2026-01-28,Remedial classes,Low attendance in previous term,0.8,0.9
+SCH02-0066,3,2026-05-14,Counselling,Low attendance in previous term,0.95,0.85
+SCH02-0067,2,2026-02-12,Parent-teacher meeting,Low attendance in previous term,1.0,0.9
+SCH02-0069,3,2026-05-19,Home visit,Low attendance in previous term,0.85,0.9
+SCH02-0072,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,0.85,0.95
+SCH02-0074,3,2026-05-29,Parent-teacher meeting,Low attendance in previous term,0.65,0.75
+SCH02-0075,2,2026-01-23,Home visit,Low attendance in previous term,0.95,1.0
+SCH02-0077,3,2026-05-08,Parent-teacher meeting,Low attendance in previous term,1.0,0.95
+SCH02-0082,2,2026-02-10,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH02-0084,3,2026-05-13,Counselling,Low attendance in previous term,0.95,1.0
+SCH02-0085,2,2026-02-16,Parent-teacher meeting,Low attendance in previous term,0.75,1.0
+SCH02-0087,3,2026-05-13,Parent-teacher meeting,Low attendance in previous term,0.9,0.85
+SCH02-0088,3,2026-05-14,Parent-teacher meeting,Low attendance in previous term,0.95,0.9
+SCH02-0090,2,2026-01-29,Attendance contract,Low attendance in previous term,0.95,0.9
+SCH02-0093,2,2026-01-23,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH02-0098,2,2026-02-10,Home visit,Low attendance in previous term,0.8,0.95
+SCH02-0102,2,2026-01-27,Home visit,Low attendance in previous term,0.95,1.0
+SCH02-0103,3,2026-05-08,Home visit,Low attendance in previous term,0.7,0.7
+SCH02-0104,3,2026-05-25,Peer tutoring,Low attendance in previous term,0.95,0.65
+SCH02-0105,3,2026-05-15,Peer tutoring,Low attendance in previous term,0.7,0.85
+SCH02-0106,2,2026-01-23,Attendance contract,Low attendance in previous term,0.8,1.0
+SCH02-0107,2,2026-02-13,Parent-teacher meeting,Low attendance in previous term,0.8,0.85
+SCH02-0108,3,2026-05-19,Remedial classes,Low attendance in previous term,0.8,1.0
+SCH02-0109,2,2026-02-10,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH02-0110,3,2026-05-21,Parent-teacher meeting,Low attendance in previous term,1.0,0.85
+SCH02-0113,2,2026-01-26,Home visit,Low attendance in previous term,1.0,1.0
+SCH02-0115,3,2026-05-28,Remedial classes,Low attendance in previous term,0.95,0.85
+SCH02-0118,3,2026-05-13,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH02-0120,2,2026-02-02,Peer tutoring,Low attendance in previous term,0.9,0.95
+SCH02-0126,3,2026-05-06,Peer tutoring,Low attendance in previous term,0.9,1.0
+SCH02-0128,3,2026-05-26,Attendance contract,Low attendance in previous term,0.8,0.9
+SCH02-0130,3,2026-05-08,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH02-0131,2,2026-02-10,Remedial classes,Low attendance in previous term,0.6,0.95
+SCH02-0136,2,2026-01-20,Counselling,Low attendance in previous term,0.8,0.95
+SCH02-0137,2,2026-02-12,Peer tutoring,Low attendance in previous term,1.0,0.9
+SCH02-0143,2,2026-02-05,Parent-teacher meeting,Low attendance in previous term,0.95,0.6
+SCH02-0150,2,2026-01-23,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH02-0152,2,2026-01-29,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH02-0156,2,2026-01-28,Parent-teacher meeting,Low attendance in previous term,0.7,1.0
+SCH02-0157,2,2026-01-26,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH02-0160,3,2026-06-02,Remedial classes,Low attendance in previous term,0.95,0.95
+SCH02-0162,2,2026-02-05,Parent-teacher meeting,Low attendance in previous term,0.8,0.75
+SCH02-0163,3,2026-05-11,Peer tutoring,Low attendance in previous term,1.0,0.85
+SCH02-0164,2,2026-02-11,Peer tutoring,Low attendance in previous term,1.0,1.0
+SCH02-0168,3,2026-06-03,Remedial classes,Low attendance in previous term,0.85,1.0
+SCH02-0171,2,2026-02-11,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH02-0173,2,2026-02-02,Peer tutoring,Low attendance in previous term,0.75,1.0
+SCH02-0175,2,2026-02-04,Counselling,Low attendance in previous term,0.95,0.95
+SCH02-0176,2,2026-01-26,Home visit,Low attendance in previous term,0.95,1.0
+SCH02-0179,2,2026-01-30,Remedial classes,Low attendance in previous term,0.85,0.9
+SCH02-0180,2,2026-01-30,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH02-0182,2,2026-01-30,Counselling,Low attendance in previous term,0.45,0.8
+SCH02-0183,2,2026-01-27,Peer tutoring,Low attendance in previous term,0.7,0.95
+SCH02-0184,2,2026-02-06,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH02-0191,2,2026-02-09,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH02-0193,3,2026-06-02,Attendance contract,Low attendance in previous term,0.4,0.55
+SCH02-0200,2,2026-01-22,Parent-teacher meeting,Low attendance in previous term,0.9,0.85
+SCH02-0201,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH02-0205,2,2026-01-28,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH02-0207,2,2026-02-10,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH02-0210,2,2026-02-03,Home visit,Low attendance in previous term,1.0,1.0
+SCH02-0212,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,1.0,0.55
+SCH02-0215,2,2026-01-29,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH02-0217,2,2026-02-06,Peer tutoring,Low attendance in previous term,0.95,1.0
+SCH02-0221,3,2026-05-28,Counselling,Low attendance in previous term,0.8,1.0
+SCH02-0224,2,2026-01-26,Parent-teacher meeting,Low attendance in previous term,0.9,0.95
+SCH02-0225,2,2026-02-13,Peer tutoring,Low attendance in previous term,0.95,1.0
+SCH02-0226,2,2026-01-27,Counselling,Low attendance in previous term,0.9,0.85
+SCH02-0228,2,2026-02-11,Remedial classes,Low attendance in previous term,0.8,0.85
+SCH02-0230,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH02-0233,2,2026-02-06,Attendance contract,Low attendance in previous term,0.9,1.0
+SCH02-0234,2,2026-02-03,Remedial classes,Low attendance in previous term,1.0,0.9
+SCH02-0237,2,2026-02-09,Parent-teacher meeting,Low attendance in previous term,0.95,0.85
+SCH02-0238,2,2026-01-26,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH02-0239,2,2026-02-13,Counselling,Low attendance in previous term,0.9,1.0
+SCH02-0242,3,2026-05-14,Parent-teacher meeting,Low attendance in previous term,0.8,0.95
+SCH02-0244,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,0.7,1.0
+SCH02-0245,2,2026-01-27,Remedial classes,Low attendance in previous term,0.7,0.95
+SCH02-0251,3,2026-05-29,Remedial classes,Low attendance in previous term,0.95,0.7
+SCH02-0252,3,2026-05-25,Attendance contract,Low attendance in previous term,0.8,0.9
+SCH02-0255,2,2026-02-04,Remedial classes,Low attendance in previous term,1.0,0.85
+SCH02-0257,3,2026-05-20,Attendance contract,Low attendance in previous term,1.0,0.7
+SCH02-0259,3,2026-05-21,Remedial classes,Low attendance in previous term,0.7,0.8
+SCH02-0264,2,2026-02-03,Peer tutoring,Low attendance in previous term,1.0,1.0
+SCH02-0271,2,2026-02-06,Counselling,Low attendance in previous term,0.7,1.0
+SCH02-0273,2,2026-01-26,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH02-0274,3,2026-05-25,Counselling,Low attendance in previous term,0.85,0.85
+SCH02-0278,2,2026-02-06,Counselling,Low attendance in previous term,1.0,1.0
+SCH02-0280,2,2026-02-03,Home visit,Low attendance in previous term,1.0,1.0
+SCH02-0282,3,2026-05-13,Parent-teacher meeting,Low attendance in previous term,1.0,0.8
+SCH02-0284,2,2026-02-13,Home visit,Low attendance in previous term,0.9,0.85
+SCH02-0286,3,2026-05-11,Counselling,Low attendance in previous term,0.85,0.85
+SCH02-0287,2,2026-01-27,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH02-0288,2,2026-02-02,Remedial classes,Low attendance in previous term,0.7,0.85
+SCH02-0289,3,2026-05-07,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH02-0290,3,2026-05-08,Parent-teacher meeting,Low attendance in previous term,0.55,0.65
+SCH02-0291,2,2026-02-16,Parent-teacher meeting,Low attendance in previous term,0.85,0.85
+SCH02-0293,2,2026-01-21,Peer tutoring,Low attendance in previous term,0.9,1.0
+SCH02-0296,3,2026-05-21,Parent-teacher meeting,Low attendance in previous term,0.95,0.9
+SCH02-0300,2,2026-01-29,Home visit,Low attendance in previous term,0.8,0.95
+SCH02-0301,3,2026-05-11,Remedial classes,Low attendance in previous term,1.0,0.95
+SCH02-0302,2,2026-01-29,Peer tutoring,Low attendance in previous term,0.85,0.9
+SCH02-0306,2,2026-02-12,Parent-teacher meeting,Low attendance in previous term,0.95,0.95
+SCH02-0307,2,2026-02-11,Home visit,Low attendance in previous term,1.0,0.9
+SCH02-0308,2,2026-01-21,Attendance contract,Low attendance in previous term,0.85,1.0
+SCH02-0313,3,2026-05-13,Remedial classes,Low attendance in previous term,0.85,1.0
+SCH02-0320,2,2026-02-04,Attendance contract,Low attendance in previous term,0.95,0.75
+SCH02-0321,2,2026-02-10,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH02-0325,3,2026-05-06,Attendance contract,Low attendance in previous term,0.8,0.95
+SCH02-0326,2,2026-02-16,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH02-0327,3,2026-06-01,Parent-teacher meeting,Low attendance in previous term,0.65,0.75
+SCH02-0328,3,2026-05-12,Home visit,Low attendance in previous term,0.75,0.7
+SCH02-0330,2,2026-02-03,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH02-0331,2,2026-02-09,Remedial classes,Low attendance in previous term,0.6,0.95
+SCH02-0332,2,2026-01-23,Counselling,Low attendance in previous term,1.0,0.9
+SCH02-0336,3,2026-05-21,Parent-teacher meeting,Low attendance in previous term,0.95,0.7
+SCH02-0338,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,1.0,0.8
+SCH02-0347,3,2026-05-06,Attendance contract,Low attendance in previous term,1.0,0.9
+SCH02-0348,3,2026-05-13,Attendance contract,Low attendance in previous term,0.9,1.0
+SCH02-0354,2,2026-02-10,Parent-teacher meeting,Low attendance in previous term,0.95,0.95
+SCH02-0355,3,2026-05-22,Remedial classes,Low attendance in previous term,0.9,0.8
+SCH03-0001,2,2026-02-10,Peer tutoring,Low attendance in previous term,0.85,1.0
+SCH03-0003,2,2026-02-02,Counselling,Low attendance in previous term,0.95,1.0
+SCH03-0006,3,2026-05-13,Counselling,Low attendance in previous term,0.9,1.0
+SCH03-0010,2,2026-01-23,Parent-teacher meeting,Low attendance in previous term,0.85,0.75
+SCH03-0013,2,2026-01-20,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH03-0017,2,2026-02-02,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH03-0021,3,2026-05-11,Parent-teacher meeting,Low attendance in previous term,0.9,0.8
+SCH03-0022,2,2026-01-26,Parent-teacher meeting,Low attendance in previous term,0.65,0.95
+SCH03-0024,3,2026-05-19,Counselling,Low attendance in previous term,0.7,0.95
+SCH03-0025,2,2026-02-11,Attendance contract,Low attendance in previous term,0.9,0.9
+SCH03-0026,2,2026-02-16,Remedial classes,Low attendance in previous term,1.0,0.95
+SCH03-0027,2,2026-01-30,Home visit,Low attendance in previous term,0.95,1.0
+SCH03-0029,2,2026-02-03,Parent-teacher meeting,Low attendance in previous term,0.95,0.95
+SCH03-0031,2,2026-02-04,Peer tutoring,Low attendance in previous term,0.9,0.95
+SCH03-0033,2,2026-02-04,Remedial classes,Low attendance in previous term,0.9,0.9
+SCH03-0034,2,2026-02-05,Peer tutoring,Low attendance in previous term,1.0,1.0
+SCH03-0039,2,2026-02-05,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH03-0040,2,2026-02-02,Parent-teacher meeting,Low attendance in previous term,0.9,0.95
+SCH03-0042,3,2026-05-18,Peer tutoring,Low attendance in previous term,0.75,0.95
+SCH03-0043,2,2026-02-09,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH03-0044,2,2026-01-21,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH03-0045,2,2026-02-11,Remedial classes,Low attendance in previous term,1.0,0.95
+SCH03-0048,2,2026-02-02,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH03-0049,3,2026-05-28,Counselling,Low attendance in previous term,0.75,0.8
+SCH03-0052,2,2026-01-27,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH03-0053,2,2026-02-16,Remedial classes,Low attendance in previous term,0.85,0.8
+SCH03-0054,2,2026-01-22,Counselling,Low attendance in previous term,1.0,1.0
+SCH03-0055,2,2026-01-22,Home visit,Low attendance in previous term,0.9,0.95
+SCH03-0056,2,2026-02-09,Attendance contract,Low attendance in previous term,1.0,0.95
+SCH03-0061,2,2026-02-05,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH03-0062,2,2026-02-05,Parent-teacher meeting,Low attendance in previous term,0.7,0.8
+SCH03-0065,3,2026-05-13,Remedial classes,Low attendance in previous term,0.9,0.85
+SCH03-0067,2,2026-02-03,Remedial classes,Low attendance in previous term,0.85,1.0
+SCH03-0068,2,2026-02-10,Counselling,Low attendance in previous term,0.9,0.75
+SCH03-0069,3,2026-05-20,Remedial classes,Low attendance in previous term,0.9,0.95
+SCH03-0074,3,2026-05-19,Remedial classes,Low attendance in previous term,0.9,0.7
+SCH03-0076,3,2026-05-08,Remedial classes,Low attendance in previous term,0.8,0.7
+SCH03-0079,2,2026-02-11,Counselling,Low attendance in previous term,1.0,1.0
+SCH03-0083,2,2026-02-04,Parent-teacher meeting,Low attendance in previous term,0.5,1.0
+SCH03-0093,2,2026-02-03,Parent-teacher meeting,Low attendance in previous term,0.75,0.9
+SCH03-0095,2,2026-01-28,Attendance contract,Low attendance in previous term,0.95,1.0
+SCH03-0098,3,2026-05-12,Parent-teacher meeting,Low attendance in previous term,0.85,0.95
+SCH03-0099,2,2026-02-10,Peer tutoring,Low attendance in previous term,0.85,0.95
+SCH03-0103,2,2026-01-21,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH03-0104,2,2026-02-10,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH03-0105,2,2026-02-10,Counselling,Low attendance in previous term,0.9,1.0
+SCH03-0106,2,2026-02-03,Counselling,Low attendance in previous term,1.0,1.0
+SCH03-0109,2,2026-01-27,Counselling,Low attendance in previous term,0.85,0.65
+SCH03-0112,2,2026-02-02,Attendance contract,Low attendance in previous term,0.8,0.95
+SCH03-0115,2,2026-02-04,Parent-teacher meeting,Low attendance in previous term,0.75,0.95
+SCH03-0117,3,2026-05-20,Attendance contract,Low attendance in previous term,0.6,0.9
+SCH03-0119,2,2026-02-05,Parent-teacher meeting,Low attendance in previous term,0.9,0.8
+SCH03-0121,2,2026-02-13,Remedial classes,Low attendance in previous term,0.8,0.9
+SCH03-0122,2,2026-01-27,Remedial classes,Low attendance in previous term,1.0,0.75
+SCH03-0123,2,2026-02-16,Peer tutoring,Low attendance in previous term,0.65,1.0
+SCH03-0129,2,2026-01-20,Parent-teacher meeting,Low attendance in previous term,1.0,0.65
+SCH03-0131,2,2026-01-30,Parent-teacher meeting,Low attendance in previous term,0.9,0.9
+SCH03-0134,3,2026-05-08,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH03-0138,2,2026-01-28,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH03-0142,2,2026-01-29,Parent-teacher meeting,Low attendance in previous term,0.65,1.0
+SCH03-0144,3,2026-05-29,Counselling,Low attendance in previous term,0.9,0.85
+SCH03-0149,2,2026-02-06,Remedial classes,Low attendance in previous term,0.95,0.9
+SCH03-0151,3,2026-05-11,Peer tutoring,Low attendance in previous term,0.95,0.85
+SCH03-0153,2,2026-02-11,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH03-0154,2,2026-01-21,Counselling,Low attendance in previous term,0.95,1.0
+SCH03-0155,2,2026-02-13,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH03-0158,2,2026-02-16,Counselling,Low attendance in previous term,0.95,1.0
+SCH03-0159,3,2026-05-29,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH03-0161,2,2026-01-28,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH03-0163,2,2026-01-28,Remedial classes,Low attendance in previous term,0.85,1.0
+SCH03-0165,2,2026-01-29,Remedial classes,Low attendance in previous term,1.0,0.9
+SCH03-0166,2,2026-01-26,Peer tutoring,Low attendance in previous term,0.7,0.95
+SCH03-0167,3,2026-05-20,Counselling,Low attendance in previous term,0.9,1.0
+SCH03-0168,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH03-0169,2,2026-01-29,Remedial classes,Low attendance in previous term,0.7,1.0
+SCH03-0170,3,2026-05-26,Peer tutoring,Low attendance in previous term,0.75,0.9
+SCH03-0176,2,2026-02-03,Attendance contract,Low attendance in previous term,0.95,0.7
+SCH03-0179,3,2026-05-19,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH03-0180,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH03-0183,3,2026-05-14,Parent-teacher meeting,Low attendance in previous term,0.8,0.85
+SCH03-0188,2,2026-02-16,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH03-0189,2,2026-02-11,Remedial classes,Low attendance in previous term,0.85,0.7
+SCH03-0193,2,2026-02-03,Parent-teacher meeting,Low attendance in previous term,0.95,0.95
+SCH03-0197,2,2026-01-28,Attendance contract,Low attendance in previous term,1.0,1.0
+SCH03-0202,3,2026-05-19,Parent-teacher meeting,Low attendance in previous term,0.95,0.95
+SCH03-0203,3,2026-06-03,Remedial classes,Low attendance in previous term,0.9,0.95
+SCH03-0204,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH03-0205,3,2026-05-12,Remedial classes,Low attendance in previous term,0.75,0.8
+SCH03-0206,2,2026-02-04,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH03-0208,2,2026-02-05,Remedial classes,Low attendance in previous term,0.95,0.85
+SCH03-0209,2,2026-02-11,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH03-0210,2,2026-02-02,Counselling,Low attendance in previous term,0.75,0.8
+SCH03-0211,2,2026-01-20,Remedial classes,Low attendance in previous term,0.75,1.0
+SCH03-0212,2,2026-02-13,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH03-0214,2,2026-02-16,Parent-teacher meeting,Low attendance in previous term,1.0,0.9
+SCH03-0215,2,2026-01-26,Parent-teacher meeting,Low attendance in previous term,0.95,0.95
+SCH03-0218,2,2026-01-29,Home visit,Low attendance in previous term,1.0,1.0
+SCH03-0219,2,2026-01-22,Remedial classes,Low attendance in previous term,0.8,1.0
+SCH03-0220,2,2026-02-05,Parent-teacher meeting,Low attendance in previous term,0.85,0.95
+SCH03-0222,2,2026-02-04,Remedial classes,Low attendance in previous term,0.5,0.75
+SCH03-0223,2,2026-02-09,Counselling,Low attendance in previous term,1.0,0.85
+SCH03-0224,2,2026-02-13,Remedial classes,Low attendance in previous term,0.85,1.0
+SCH03-0230,2,2026-02-03,Counselling,Low attendance in previous term,0.7,1.0
+SCH03-0233,2,2026-02-12,Remedial classes,Low attendance in previous term,1.0,0.9
+SCH03-0234,2,2026-02-11,Attendance contract,Low attendance in previous term,0.95,1.0
+SCH03-0244,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,1.0,0.9
+SCH03-0245,2,2026-02-04,Home visit,Low attendance in previous term,0.85,1.0
+SCH03-0249,2,2026-01-23,Counselling,Low attendance in previous term,0.9,0.8
+SCH03-0251,2,2026-02-06,Attendance contract,Low attendance in previous term,1.0,0.95
+SCH03-0252,2,2026-01-29,Remedial classes,Low attendance in previous term,0.7,0.95
+SCH03-0257,3,2026-05-28,Remedial classes,Low attendance in previous term,0.8,0.85
+SCH03-0260,3,2026-06-01,Parent-teacher meeting,Low attendance in previous term,0.95,0.9
+SCH03-0262,2,2026-02-11,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH03-0264,3,2026-05-28,Parent-teacher meeting,Low attendance in previous term,0.65,0.95
+SCH03-0265,3,2026-05-08,Remedial classes,Low attendance in previous term,1.0,0.95
+SCH03-0269,2,2026-02-12,Remedial classes,Low attendance in previous term,1.0,0.9
+SCH03-0270,2,2026-01-23,Counselling,Low attendance in previous term,0.95,0.85
+SCH03-0273,2,2026-01-30,Remedial classes,Low attendance in previous term,1.0,0.95
+SCH03-0275,2,2026-02-12,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH03-0276,2,2026-02-05,Counselling,Low attendance in previous term,0.95,1.0
+SCH03-0279,2,2026-02-10,Parent-teacher meeting,Low attendance in previous term,0.85,0.9
+SCH03-0281,3,2026-05-15,Parent-teacher meeting,Low attendance in previous term,0.9,0.8
+SCH03-0286,3,2026-05-21,Remedial classes,Low attendance in previous term,0.75,0.95
+SCH03-0288,3,2026-05-14,Counselling,Low attendance in previous term,0.65,0.9
+SCH03-0289,2,2026-01-29,Remedial classes,Low attendance in previous term,0.7,1.0
+SCH03-0295,3,2026-05-20,Remedial classes,Low attendance in previous term,0.9,0.9
+SCH03-0296,2,2026-01-26,Peer tutoring,Low attendance in previous term,0.85,0.95
+SCH03-0298,2,2026-01-20,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH03-0299,2,2026-01-21,Peer tutoring,Low attendance in previous term,1.0,0.9
+SCH03-0303,2,2026-01-27,Remedial classes,Low attendance in previous term,0.75,0.55
+SCH03-0305,2,2026-02-13,Home visit,Low attendance in previous term,0.65,1.0
+SCH03-0307,2,2026-01-20,Home visit,Low attendance in previous term,1.0,1.0
+SCH03-0308,3,2026-05-12,Attendance contract,Low attendance in previous term,0.8,0.9
+SCH03-0313,3,2026-05-25,Remedial classes,Low attendance in previous term,1.0,0.8
+SCH03-0316,2,2026-02-02,Parent-teacher meeting,Low attendance in previous term,0.95,0.9
+SCH03-0317,2,2026-02-16,Attendance contract,Low attendance in previous term,1.0,0.85
+SCH03-0318,3,2026-05-11,Parent-teacher meeting,Low attendance in previous term,0.8,0.9
+SCH03-0319,2,2026-01-20,Parent-teacher meeting,Low attendance in previous term,0.95,0.9
+SCH03-0321,2,2026-02-03,Peer tutoring,Low attendance in previous term,0.95,1.0
+SCH03-0322,3,2026-05-07,Counselling,Low attendance in previous term,0.7,1.0
+SCH03-0325,2,2026-02-04,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH03-0329,2,2026-02-02,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH03-0331,2,2026-02-11,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH03-0332,2,2026-02-09,Parent-teacher meeting,Low attendance in previous term,0.95,0.8
+SCH03-0334,2,2026-01-27,Remedial classes,Low attendance in previous term,0.85,1.0
+SCH03-0340,2,2026-02-10,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH03-0344,2,2026-01-30,Remedial classes,Low attendance in previous term,0.65,1.0
+SCH03-0345,2,2026-02-10,Parent-teacher meeting,Low attendance in previous term,0.65,1.0
+SCH03-0347,2,2026-01-20,Counselling,Low attendance in previous term,0.9,0.85
+SCH03-0351,3,2026-05-29,Home visit,Low attendance in previous term,0.8,0.85
+SCH03-0352,2,2026-02-03,Parent-teacher meeting,Low attendance in previous term,0.85,0.8
+SCH03-0353,3,2026-05-14,Counselling,Low attendance in previous term,0.9,0.7
+SCH03-0354,2,2026-02-12,Counselling,Low attendance in previous term,0.95,0.95
+SCH03-0355,3,2026-05-20,Parent-teacher meeting,Low attendance in previous term,1.0,0.95
+SCH03-0357,2,2026-01-27,Home visit,Low attendance in previous term,0.95,1.0
+SCH03-0359,3,2026-05-11,Parent-teacher meeting,Low attendance in previous term,0.75,1.0
+SCH03-0363,2,2026-02-04,Counselling,Low attendance in previous term,0.85,0.95
+SCH03-0364,3,2026-05-26,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH03-0365,2,2026-01-28,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH03-0366,3,2026-05-20,Counselling,Low attendance in previous term,1.0,0.7
+SCH04-0001,2,2026-02-02,Remedial classes,Low attendance in previous term,1.0,0.75
+SCH04-0003,2,2026-02-06,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH04-0012,2,2026-01-26,Home visit,Low attendance in previous term,0.9,1.0
+SCH04-0016,2,2026-02-11,Counselling,Low attendance in previous term,1.0,0.85
+SCH04-0018,3,2026-05-15,Remedial classes,Low attendance in previous term,0.95,0.8
+SCH04-0024,3,2026-05-07,Parent-teacher meeting,Low attendance in previous term,0.8,0.8
+SCH04-0025,2,2026-01-28,Remedial classes,Low attendance in previous term,0.8,1.0
+SCH04-0026,2,2026-02-11,Remedial classes,Low attendance in previous term,0.5,0.65
+SCH04-0028,2,2026-02-06,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH04-0030,3,2026-05-20,Remedial classes,Low attendance in previous term,0.95,0.9
+SCH04-0032,2,2026-01-22,Parent-teacher meeting,Low attendance in previous term,0.9,0.85
+SCH04-0036,2,2026-02-16,Parent-teacher meeting,Low attendance in previous term,0.95,0.95
+SCH04-0038,3,2026-05-26,Remedial classes,Low attendance in previous term,0.85,1.0
+SCH04-0039,2,2026-02-13,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH04-0040,2,2026-01-23,Counselling,Low attendance in previous term,0.95,1.0
+SCH04-0041,2,2026-01-20,Parent-teacher meeting,Low attendance in previous term,0.95,0.95
+SCH04-0042,2,2026-01-29,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH04-0043,2,2026-02-16,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH04-0045,3,2026-05-15,Counselling,Low attendance in previous term,1.0,0.85
+SCH04-0051,3,2026-06-01,Remedial classes,Low attendance in previous term,0.9,0.75
+SCH04-0053,3,2026-05-11,Peer tutoring,Low attendance in previous term,0.5,0.7
+SCH04-0054,3,2026-06-03,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH04-0055,3,2026-05-20,Parent-teacher meeting,Low attendance in previous term,0.85,0.95
+SCH04-0057,2,2026-02-12,Attendance contract,Low attendance in previous term,0.65,0.8
+SCH04-0058,2,2026-02-02,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH04-0059,2,2026-02-10,Attendance contract,Low attendance in previous term,1.0,1.0
+SCH04-0060,3,2026-05-14,Remedial classes,Low attendance in previous term,0.95,0.9
+SCH04-0061,2,2026-01-28,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH04-0062,2,2026-02-13,Counselling,Low attendance in previous term,0.9,1.0
+SCH04-0064,2,2026-01-22,Parent-teacher meeting,Low attendance in previous term,0.75,1.0
+SCH04-0068,3,2026-05-12,Counselling,Low attendance in previous term,1.0,0.8
+SCH04-0070,2,2026-01-26,Parent-teacher meeting,Low attendance in previous term,0.8,0.65
+SCH04-0073,2,2026-01-20,Counselling,Low attendance in previous term,1.0,0.7
+SCH04-0074,3,2026-06-02,Remedial classes,Low attendance in previous term,0.75,0.9
+SCH04-0075,3,2026-05-21,Parent-teacher meeting,Low attendance in previous term,0.95,0.85
+SCH04-0083,3,2026-05-12,Attendance contract,Low attendance in previous term,0.8,1.0
+SCH04-0085,2,2026-01-20,Remedial classes,Low attendance in previous term,0.8,0.95
+SCH04-0089,2,2026-02-05,Peer tutoring,Low attendance in previous term,0.85,1.0
+SCH04-0090,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH04-0093,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH04-0094,2,2026-02-16,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH04-0097,2,2026-01-30,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH04-0099,2,2026-01-20,Counselling,Low attendance in previous term,0.9,0.85
+SCH04-0106,2,2026-02-02,Parent-teacher meeting,Low attendance in previous term,0.8,1.0
+SCH04-0107,2,2026-02-10,Peer tutoring,Low attendance in previous term,1.0,0.85
+SCH04-0111,3,2026-05-22,Parent-teacher meeting,Low attendance in previous term,0.65,0.6
+SCH04-0114,3,2026-05-06,Home visit,Low attendance in previous term,1.0,0.75
+SCH04-0115,3,2026-05-21,Parent-teacher meeting,Low attendance in previous term,1.0,0.9
+SCH04-0116,2,2026-01-26,Counselling,Low attendance in previous term,0.8,0.9
+SCH04-0118,2,2026-01-23,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH04-0119,2,2026-01-30,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH04-0120,3,2026-05-11,Counselling,Low attendance in previous term,1.0,0.95
+SCH04-0122,3,2026-05-15,Remedial classes,Low attendance in previous term,0.9,0.85
+SCH04-0124,3,2026-05-20,Remedial classes,Low attendance in previous term,0.7,1.0
+SCH04-0125,2,2026-02-10,Home visit,Low attendance in previous term,0.95,1.0
+SCH04-0133,3,2026-05-26,Peer tutoring,Low attendance in previous term,0.95,1.0
+SCH04-0138,3,2026-05-19,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH04-0139,3,2026-05-18,Peer tutoring,Low attendance in previous term,0.7,0.8
+SCH04-0141,2,2026-02-10,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH04-0143,3,2026-05-19,Parent-teacher meeting,Low attendance in previous term,0.95,0.9
+SCH04-0144,2,2026-01-30,Remedial classes,Low attendance in previous term,0.7,1.0
+SCH04-0145,2,2026-01-21,Counselling,Low attendance in previous term,0.85,1.0
+SCH04-0146,2,2026-01-27,Parent-teacher meeting,Low attendance in previous term,1.0,0.9
+SCH04-0147,2,2026-01-27,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH04-0148,2,2026-02-12,Remedial classes,Low attendance in previous term,0.85,0.95
+SCH04-0158,3,2026-05-07,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH04-0162,2,2026-02-11,Attendance contract,Low attendance in previous term,0.8,1.0
+SCH04-0163,3,2026-05-29,Remedial classes,Low attendance in previous term,1.0,0.95
+SCH04-0165,2,2026-01-22,Counselling,Low attendance in previous term,0.85,1.0
+SCH04-0167,2,2026-01-20,Remedial classes,Low attendance in previous term,0.75,1.0
+SCH04-0170,3,2026-05-14,Peer tutoring,Low attendance in previous term,0.75,0.85
+SCH04-0173,2,2026-01-30,Parent-teacher meeting,Low attendance in previous term,0.95,0.9
+SCH04-0175,2,2026-02-02,Remedial classes,Low attendance in previous term,0.7,0.85
+SCH04-0176,2,2026-01-22,Remedial classes,Low attendance in previous term,0.9,0.95
+SCH04-0178,2,2026-02-10,Home visit,Low attendance in previous term,1.0,1.0
+SCH04-0186,2,2026-02-16,Remedial classes,Low attendance in previous term,0.95,0.95
+SCH04-0187,2,2026-02-09,Attendance contract,Low attendance in previous term,1.0,0.9
+SCH04-0190,2,2026-01-26,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH04-0191,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,0.8,1.0
+SCH04-0192,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH04-0193,2,2026-01-23,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH04-0194,2,2026-01-21,Peer tutoring,Low attendance in previous term,0.8,1.0
+SCH04-0195,3,2026-05-29,Remedial classes,Low attendance in previous term,0.95,0.85
+SCH04-0196,3,2026-05-26,Remedial classes,Low attendance in previous term,0.95,0.9
+SCH04-0205,2,2026-01-29,Attendance contract,Low attendance in previous term,0.75,0.8
+SCH04-0206,2,2026-01-23,Parent-teacher meeting,Low attendance in previous term,0.8,1.0
+SCH04-0210,3,2026-05-12,Counselling,Low attendance in previous term,0.8,0.9
+SCH04-0214,3,2026-05-14,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH04-0216,3,2026-05-12,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH04-0217,2,2026-02-03,Attendance contract,Low attendance in previous term,0.8,0.9
+SCH04-0219,3,2026-05-12,Counselling,Low attendance in previous term,0.85,0.95
+SCH04-0223,2,2026-02-16,Remedial classes,Low attendance in previous term,0.85,1.0
+SCH04-0224,2,2026-01-23,Remedial classes,Low attendance in previous term,0.7,1.0
+SCH04-0231,2,2026-01-29,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH04-0232,2,2026-01-22,Remedial classes,Low attendance in previous term,0.7,0.7
+SCH04-0235,3,2026-05-08,Parent-teacher meeting,Low attendance in previous term,0.7,0.95
+SCH04-0236,2,2026-01-23,Counselling,Low attendance in previous term,0.9,1.0
+SCH04-0238,2,2026-01-27,Peer tutoring,Low attendance in previous term,0.85,0.85
+SCH04-0240,2,2026-01-20,Counselling,Low attendance in previous term,0.95,1.0
+SCH04-0243,2,2026-02-16,Parent-teacher meeting,Low attendance in previous term,0.9,0.95
+SCH04-0244,2,2026-02-13,Counselling,Low attendance in previous term,0.85,1.0
+SCH04-0248,2,2026-02-02,Parent-teacher meeting,Low attendance in previous term,1.0,0.75
+SCH04-0251,2,2026-02-10,Remedial classes,Low attendance in previous term,0.85,0.85
+SCH04-0253,3,2026-05-29,Parent-teacher meeting,Low attendance in previous term,0.8,0.65
+SCH04-0254,2,2026-01-26,Remedial classes,Low attendance in previous term,0.85,0.55
+SCH04-0255,3,2026-05-25,Parent-teacher meeting,Low attendance in previous term,0.9,0.7
+SCH04-0256,2,2026-01-29,Attendance contract,Low attendance in previous term,0.9,0.8
+SCH04-0257,2,2026-02-03,Parent-teacher meeting,Low attendance in previous term,0.45,1.0
+SCH04-0258,2,2026-02-03,Peer tutoring,Low attendance in previous term,1.0,0.9
+SCH04-0261,2,2026-02-09,Peer tutoring,Low attendance in previous term,1.0,0.95
+SCH04-0262,2,2026-02-05,Peer tutoring,Low attendance in previous term,0.95,0.8
+SCH04-0264,3,2026-05-08,Counselling,Low attendance in previous term,0.95,0.95
+SCH04-0265,2,2026-02-03,Parent-teacher meeting,Low attendance in previous term,0.5,0.95
+SCH04-0267,2,2026-02-09,Parent-teacher meeting,Low attendance in previous term,0.95,0.9
+SCH04-0270,2,2026-02-02,Counselling,Low attendance in previous term,0.85,1.0
+SCH04-0271,2,2026-02-03,Parent-teacher meeting,Low attendance in previous term,1.0,0.9
+SCH04-0272,3,2026-05-18,Parent-teacher meeting,Low attendance in previous term,0.85,0.85
+SCH04-0275,3,2026-05-11,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH04-0278,2,2026-02-09,Home visit,Low attendance in previous term,0.95,1.0
+SCH04-0285,2,2026-02-04,Peer tutoring,Low attendance in previous term,0.95,0.95
+SCH04-0286,2,2026-01-27,Parent-teacher meeting,Low attendance in previous term,0.95,0.95
+SCH04-0287,2,2026-02-10,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH04-0288,3,2026-05-13,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH04-0290,2,2026-01-27,Counselling,Low attendance in previous term,0.9,0.9
+SCH04-0291,2,2026-01-26,Attendance contract,Low attendance in previous term,0.85,0.9
+SCH04-0292,3,2026-05-21,Parent-teacher meeting,Low attendance in previous term,0.85,0.95
+SCH04-0293,2,2026-01-20,Attendance contract,Low attendance in previous term,0.85,1.0
+SCH04-0299,3,2026-06-03,Counselling,Low attendance in previous term,0.85,0.95
+SCH04-0309,2,2026-02-02,Counselling,Low attendance in previous term,0.95,1.0
+SCH04-0310,2,2026-02-12,Home visit,Low attendance in previous term,1.0,0.95
+SCH04-0311,2,2026-01-26,Parent-teacher meeting,Low attendance in previous term,0.95,0.55
+SCH04-0316,3,2026-05-06,Home visit,Low attendance in previous term,0.85,0.7
+SCH04-0317,2,2026-01-21,Parent-teacher meeting,Low attendance in previous term,0.65,0.9
+SCH04-0318,2,2026-02-10,Counselling,Low attendance in previous term,1.0,0.95
+SCH04-0319,3,2026-06-03,Remedial classes,Low attendance in previous term,0.8,0.65
+SCH04-0323,2,2026-01-27,Remedial classes,Low attendance in previous term,0.8,0.7
+SCH04-0327,2,2026-01-21,Counselling,Low attendance in previous term,0.75,1.0
+SCH04-0329,2,2026-01-21,Parent-teacher meeting,Low attendance in previous term,0.55,0.95
+SCH04-0332,2,2026-01-30,Home visit,Low attendance in previous term,0.75,0.9
+SCH04-0334,2,2026-02-09,Parent-teacher meeting,Low attendance in previous term,0.85,0.8
+SCH04-0335,2,2026-02-02,Counselling,Low attendance in previous term,1.0,1.0
+SCH04-0338,2,2026-02-04,Parent-teacher meeting,Low attendance in previous term,0.75,1.0
+SCH04-0340,2,2026-01-26,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH04-0341,2,2026-02-11,Peer tutoring,Low attendance in previous term,0.9,1.0
+SCH04-0343,2,2026-01-23,Remedial classes,Low attendance in previous term,0.8,0.85
+SCH04-0344,2,2026-01-28,Counselling,Low attendance in previous term,0.65,1.0
+SCH04-0347,2,2026-01-28,Parent-teacher meeting,Low attendance in previous term,1.0,0.85
+SCH04-0348,3,2026-05-07,Attendance contract,Low attendance in previous term,0.8,0.95
+SCH04-0349,3,2026-05-14,Counselling,Low attendance in previous term,0.9,0.85
+SCH04-0351,2,2026-01-27,Parent-teacher meeting,Low attendance in previous term,0.9,0.95
+SCH04-0353,2,2026-02-10,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH04-0354,3,2026-05-25,Home visit,Low attendance in previous term,1.0,0.9
+SCH04-0356,3,2026-05-25,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH04-0359,3,2026-05-25,Remedial classes,Low attendance in previous term,0.9,0.8
+SCH04-0362,2,2026-01-29,Home visit,Low attendance in previous term,0.65,0.85
+SCH04-0363,2,2026-01-28,Counselling,Low attendance in previous term,0.8,0.95
+SCH04-0366,2,2026-01-21,Remedial classes,Low attendance in previous term,0.9,0.95
+SCH05-0001,2,2026-01-30,Home visit,Low attendance in previous term,0.9,0.8
+SCH05-0003,3,2026-05-08,Counselling,Low attendance in previous term,1.0,0.5
+SCH05-0008,2,2026-01-28,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH05-0014,2,2026-01-21,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH05-0018,2,2026-02-05,Peer tutoring,Low attendance in previous term,0.65,0.95
+SCH05-0021,2,2026-02-16,Parent-teacher meeting,Low attendance in previous term,0.85,0.95
+SCH05-0033,2,2026-02-03,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH05-0044,2,2026-01-26,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH05-0046,3,2026-05-20,Parent-teacher meeting,Low attendance in previous term,0.85,0.9
+SCH05-0049,2,2026-02-03,Peer tutoring,Low attendance in previous term,0.95,1.0
+SCH05-0051,3,2026-05-29,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH05-0054,2,2026-02-10,Home visit,Low attendance in previous term,1.0,1.0
+SCH05-0055,2,2026-01-30,Counselling,Low attendance in previous term,1.0,1.0
+SCH05-0056,2,2026-02-13,Parent-teacher meeting,Low attendance in previous term,0.8,0.65
+SCH05-0061,2,2026-02-16,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH05-0062,2,2026-01-28,Home visit,Low attendance in previous term,1.0,1.0
+SCH05-0063,3,2026-05-21,Parent-teacher meeting,Low attendance in previous term,0.85,0.9
+SCH05-0080,2,2026-01-28,Peer tutoring,Low attendance in previous term,0.9,1.0
+SCH05-0083,2,2026-02-02,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH05-0084,2,2026-01-20,Parent-teacher meeting,Low attendance in previous term,0.75,0.7
+SCH05-0086,2,2026-01-20,Counselling,Low attendance in previous term,0.75,0.85
+SCH05-0090,2,2026-02-10,Attendance contract,Low attendance in previous term,0.75,1.0
+SCH05-0093,2,2026-01-30,Counselling,Low attendance in previous term,0.8,1.0
+SCH05-0097,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,0.8,1.0
+SCH05-0106,2,2026-01-30,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH05-0107,3,2026-05-15,Home visit,Low attendance in previous term,0.65,0.95
+SCH05-0109,3,2026-05-06,Peer tutoring,Low attendance in previous term,0.75,0.75
+SCH05-0115,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,0.95,0.9
+SCH05-0124,3,2026-05-18,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH05-0130,2,2026-02-04,Parent-teacher meeting,Low attendance in previous term,0.7,0.95
+SCH05-0131,2,2026-01-28,Parent-teacher meeting,Low attendance in previous term,0.8,1.0
+SCH05-0137,2,2026-02-05,Counselling,Low attendance in previous term,0.8,1.0
+SCH05-0141,2,2026-01-21,Remedial classes,Low attendance in previous term,0.85,1.0
+SCH05-0142,2,2026-01-29,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH05-0147,2,2026-02-03,Peer tutoring,Low attendance in previous term,0.9,1.0
+SCH05-0148,2,2026-02-11,Counselling,Low attendance in previous term,1.0,1.0
+SCH05-0149,2,2026-01-27,Peer tutoring,Low attendance in previous term,1.0,1.0
+SCH05-0151,3,2026-05-13,Attendance contract,Low attendance in previous term,1.0,1.0
+SCH05-0152,2,2026-02-06,Counselling,Low attendance in previous term,0.95,1.0
+SCH05-0159,3,2026-05-29,Remedial classes,Low attendance in previous term,0.9,0.85
+SCH05-0166,3,2026-06-01,Home visit,Low attendance in previous term,0.75,0.85
+SCH05-0167,2,2026-02-04,Remedial classes,Low attendance in previous term,0.8,0.75
+SCH05-0170,2,2026-02-06,Home visit,Low attendance in previous term,0.85,1.0
+SCH05-0171,2,2026-01-29,Remedial classes,Low attendance in previous term,0.75,1.0
+SCH05-0172,3,2026-05-11,Parent-teacher meeting,Low attendance in previous term,0.7,1.0
+SCH05-0174,2,2026-02-16,Peer tutoring,Low attendance in previous term,1.0,0.95
+SCH05-0178,2,2026-01-21,Home visit,Low attendance in previous term,0.85,1.0
+SCH05-0180,3,2026-05-18,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH05-0184,2,2026-02-11,Peer tutoring,Low attendance in previous term,1.0,0.55
+SCH05-0187,2,2026-01-28,Remedial classes,Low attendance in previous term,0.75,1.0
+SCH05-0190,2,2026-01-27,Parent-teacher meeting,Low attendance in previous term,0.8,0.9
+SCH05-0193,2,2026-01-26,Parent-teacher meeting,Low attendance in previous term,0.9,0.75
+SCH05-0196,2,2026-01-28,Remedial classes,Low attendance in previous term,0.9,1.0
+SCH05-0198,2,2026-02-06,Peer tutoring,Low attendance in previous term,1.0,1.0
+SCH05-0200,3,2026-05-19,Peer tutoring,Low attendance in previous term,0.8,1.0
+SCH05-0202,2,2026-01-27,Peer tutoring,Low attendance in previous term,0.8,0.85
+SCH05-0212,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,1.0,0.95
+SCH06-0001,2,2026-01-28,Peer tutoring,Low attendance in previous term,0.75,0.95
+SCH06-0003,2,2026-01-29,Parent-teacher meeting,Low attendance in previous term,1.0,0.95
+SCH06-0004,2,2026-02-06,Home visit,Low attendance in previous term,0.95,1.0
+SCH06-0005,2,2026-01-22,Remedial classes,Low attendance in previous term,0.85,0.85
+SCH06-0006,2,2026-02-03,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH06-0008,2,2026-01-22,Parent-teacher meeting,Low attendance in previous term,0.95,0.95
+SCH06-0013,2,2026-02-04,Parent-teacher meeting,Low attendance in previous term,0.95,0.9
+SCH06-0017,3,2026-05-28,Home visit,Low attendance in previous term,0.9,0.8
+SCH06-0020,2,2026-01-20,Parent-teacher meeting,Low attendance in previous term,0.7,1.0
+SCH06-0025,2,2026-01-20,Remedial classes,Low attendance in previous term,0.8,0.95
+SCH06-0026,2,2026-02-12,Parent-teacher meeting,Low attendance in previous term,0.8,0.9
+SCH06-0029,2,2026-01-26,Home visit,Low attendance in previous term,0.7,0.9
+SCH06-0038,2,2026-02-05,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH06-0041,2,2026-01-23,Attendance contract,Low attendance in previous term,0.95,0.9
+SCH06-0044,3,2026-05-08,Remedial classes,Low attendance in previous term,0.85,0.65
+SCH06-0047,2,2026-02-03,Attendance contract,Low attendance in previous term,0.95,1.0
+SCH06-0051,2,2026-01-28,Remedial classes,Low attendance in previous term,1.0,0.8
+SCH06-0058,2,2026-01-22,Remedial classes,Low attendance in previous term,0.85,1.0
+SCH06-0066,2,2026-01-23,Counselling,Low attendance in previous term,0.9,0.85
+SCH06-0087,2,2026-01-22,Counselling,Low attendance in previous term,0.75,0.95
+SCH06-0091,2,2026-01-26,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH06-0098,3,2026-05-19,Remedial classes,Low attendance in previous term,0.85,0.85
+SCH06-0104,2,2026-01-21,Peer tutoring,Low attendance in previous term,0.65,0.65
+SCH06-0107,2,2026-01-30,Peer tutoring,Low attendance in previous term,0.95,1.0
+SCH06-0115,2,2026-01-20,Home visit,Low attendance in previous term,0.9,1.0
+SCH06-0119,2,2026-01-23,Counselling,Low attendance in previous term,0.9,0.8
+SCH06-0125,3,2026-06-01,Parent-teacher meeting,Low attendance in previous term,0.7,0.95
+SCH06-0127,2,2026-01-23,Counselling,Low attendance in previous term,0.9,0.9
+SCH06-0128,2,2026-01-26,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH06-0132,2,2026-01-21,Counselling,Low attendance in previous term,1.0,1.0
+SCH06-0137,3,2026-05-21,Counselling,Low attendance in previous term,1.0,1.0
+SCH06-0141,2,2026-01-20,Attendance contract,Low attendance in previous term,0.9,0.95
+SCH06-0146,2,2026-02-13,Counselling,Low attendance in previous term,1.0,1.0
+SCH06-0151,3,2026-05-12,Remedial classes,Low attendance in previous term,0.75,0.85
+SCH06-0153,2,2026-01-23,Peer tutoring,Low attendance in previous term,0.9,0.9
+SCH06-0154,3,2026-05-26,Counselling,Low attendance in previous term,1.0,1.0
+SCH06-0157,3,2026-05-26,Attendance contract,Low attendance in previous term,0.9,0.95
+SCH06-0158,2,2026-02-13,Attendance contract,Low attendance in previous term,0.95,1.0
+SCH06-0161,2,2026-02-04,Parent-teacher meeting,Low attendance in previous term,0.65,0.95
+SCH06-0163,2,2026-02-09,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH06-0166,2,2026-01-22,Home visit,Low attendance in previous term,1.0,1.0
+SCH06-0169,3,2026-05-20,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH06-0172,2,2026-01-22,Attendance contract,Low attendance in previous term,0.95,1.0
+SCH06-0176,3,2026-05-07,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH06-0184,3,2026-05-19,Attendance contract,Low attendance in previous term,0.7,0.95
+SCH07-0002,3,2026-05-14,Attendance contract,Low attendance in previous term,0.95,0.9
+SCH07-0003,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,0.9,1.0
+SCH07-0009,2,2026-01-23,Counselling,Low attendance in previous term,1.0,1.0
+SCH07-0028,2,2026-02-06,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH07-0032,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,0.95,1.0
+SCH07-0035,3,2026-05-08,Peer tutoring,Low attendance in previous term,0.85,0.85
+SCH07-0048,2,2026-02-10,Attendance contract,Low attendance in previous term,0.65,0.7
+SCH07-0065,2,2026-02-10,Remedial classes,Low attendance in previous term,0.8,0.95
+SCH07-0077,2,2026-02-05,Parent-teacher meeting,Low attendance in previous term,0.9,0.9
+SCH07-0080,2,2026-02-03,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH07-0081,3,2026-05-11,Parent-teacher meeting,Low attendance in previous term,0.75,0.85
+SCH07-0086,3,2026-05-22,Remedial classes,Low attendance in previous term,1.0,0.95
+SCH07-0095,2,2026-01-21,Parent-teacher meeting,Low attendance in previous term,0.8,1.0
+SCH07-0101,2,2026-01-30,Peer tutoring,Low attendance in previous term,0.75,0.9
+SCH07-0109,2,2026-02-04,Attendance contract,Low attendance in previous term,0.9,0.95
+SCH07-0114,2,2026-02-13,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH07-0118,3,2026-05-13,Parent-teacher meeting,Low attendance in previous term,0.75,1.0
+SCH07-0120,2,2026-01-22,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH07-0127,2,2026-01-23,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH07-0134,2,2026-01-27,Peer tutoring,Low attendance in previous term,1.0,0.95
+SCH07-0135,2,2026-01-23,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH07-0137,3,2026-05-28,Attendance contract,Low attendance in previous term,1.0,0.95
+SCH07-0138,3,2026-06-02,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH07-0140,3,2026-05-06,Peer tutoring,Low attendance in previous term,0.95,1.0
+SCH07-0143,2,2026-01-28,Remedial classes,Low attendance in previous term,0.85,0.65
+SCH07-0145,2,2026-01-27,Remedial classes,Low attendance in previous term,0.8,1.0
+SCH07-0151,2,2026-02-02,Parent-teacher meeting,Low attendance in previous term,0.95,0.85
+SCH07-0158,2,2026-01-29,Counselling,Low attendance in previous term,1.0,1.0
+SCH07-0163,2,2026-01-23,Parent-teacher meeting,Low attendance in previous term,0.85,1.0
+SCH07-0164,2,2026-01-21,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH07-0176,2,2026-01-21,Counselling,Low attendance in previous term,0.9,1.0
+SCH07-0177,2,2026-02-12,Counselling,Low attendance in previous term,0.95,1.0
+SCH07-0178,2,2026-01-22,Home visit,Low attendance in previous term,0.9,1.0
+SCH07-0182,2,2026-01-26,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH07-0183,3,2026-05-11,Counselling,Low attendance in previous term,0.85,1.0
+SCH07-0184,2,2026-02-09,Home visit,Low attendance in previous term,0.9,1.0
+SCH07-0187,2,2026-02-13,Counselling,Low attendance in previous term,1.0,0.75
+SCH08-0003,2,2026-01-26,Counselling,Low attendance in previous term,0.9,1.0
+SCH08-0008,2,2026-01-30,Attendance contract,Low attendance in previous term,0.9,1.0
+SCH08-0010,2,2026-02-02,Counselling,Low attendance in previous term,1.0,1.0
+SCH08-0012,2,2026-01-27,Remedial classes,Low attendance in previous term,0.8,1.0
+SCH08-0015,2,2026-02-10,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH08-0027,3,2026-06-02,Parent-teacher meeting,Low attendance in previous term,0.75,0.9
+SCH08-0028,2,2026-01-29,Remedial classes,Low attendance in previous term,0.75,0.65
+SCH08-0036,2,2026-02-11,Parent-teacher meeting,Low attendance in previous term,1.0,0.65
+SCH08-0043,3,2026-05-26,Parent-teacher meeting,Low attendance in previous term,0.8,0.95
+SCH08-0044,2,2026-01-23,Counselling,Low attendance in previous term,0.95,1.0
+SCH08-0049,3,2026-05-25,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH08-0074,2,2026-02-06,Remedial classes,Low attendance in previous term,1.0,1.0
+SCH08-0081,2,2026-02-06,Remedial classes,Low attendance in previous term,0.95,1.0
+SCH08-0088,3,2026-05-12,Counselling,Low attendance in previous term,1.0,0.95
+SCH08-0091,2,2026-01-21,Remedial classes,Low attendance in previous term,0.7,0.45
+SCH08-0094,2,2026-01-28,Parent-teacher meeting,Low attendance in previous term,0.95,0.95
+SCH08-0095,2,2026-01-28,Attendance contract,Low attendance in previous term,1.0,1.0
+SCH08-0102,2,2026-02-05,Parent-teacher meeting,Low attendance in previous term,1.0,1.0
+SCH08-0112,2,2026-02-03,Counselling,Low attendance in previous term,0.9,1.0
+SCH08-0122,2,2026-02-04,Peer tutoring,Low attendance in previous term,0.85,0.9
+SCH08-0125,3,2026-05-22,Parent-teacher meeting,Low attendance in previous term,0.8,0.95
+SCH08-0147,2,2026-01-30,Peer tutoring,Low attendance in previous term,0.95,1.0
+SCH08-0152,2,2026-01-28,Remedial classes,Low attendance in previous term,0.8,0.7
+SCH08-0154,2,2026-01-20,Remedial classes,Low attendance in previous term,0.85,1.0
+SCH08-0163,2,2026-01-20,Counselling,Low attendance in previous term,0.95,1.0
+SCH08-0165,3,2026-05-28,Remedial classes,Low attendance in previous term,0.95,0.8

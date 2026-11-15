@@ -1,0 +1,9 @@
+school_id,school_name,area,school_type,fee_tier,avg_class_size,ghanaian_language_taught,flood_prone,term_fees_ghs,pta_levy_ghs
+SCH01,Adenta Hilltop Basic School,Adenta,Public,Free,37,Twi,False,0,60
+SCH02,Dansoman Seaview M/A Basic School,Dansoman,Public,Free,38,Ga,True,0,60
+SCH03,Teshie Coastal Cluster Basic School,Teshie,Public,Free,39,Ga,False,0,60
+SCH04,Nima Unity M/A Basic School,Nima,Public,Free,40,Twi,True,0,60
+SCH05,Madina Bright Future Academy,Madina,Private,Low-fee,24,Twi,False,1450,0
+SCH06,Lapaz Wisdom Gate School,Lapaz,Private,Low-fee,22,Twi,False,1450,0
+SCH07,Kaneshie Grace Preparatory School,Kaneshie,Private,Mid-fee,21,Ga,True,2600,0
+SCH08,East Legon Pinecrest Academy,East Legon,Private,High-fee,18,Twi,False,7800,0
